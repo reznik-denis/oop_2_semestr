@@ -1,0 +1,9 @@
+Schedule for spring semester
+Monday 1 2 KI-21 101 Algorithms lection
+Monday 1 2 KI-22 101 Algorithms lection
+Monday 2 3 KI-21 101 DataBase practice
+Monday 2 3 KI-22 101 OOP practice
+Tuesday 1 2 KI-22 102 OOP lection
+Tuesday 1 3 KI-23 102 English practice
+All: 6
+Groups: 3
